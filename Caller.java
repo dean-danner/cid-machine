@@ -1,5 +1,3 @@
-package proj;
-
 public class Caller {
 	private long number;
 	private String name;
